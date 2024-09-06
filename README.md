@@ -44,5 +44,6 @@
 ![](https://github.com/usaeva-a/renew_hackathon/blob/0245a033d1c6dbdf7176b266f00f1dc69487c217/pics/example.gif)
 
 ## Структура репозитория
+Презентация с результатами хакатона находится [здесь](Renue_results.pptx).
 - В папке [test_of_trackers](test_of_trackers) собраны результаты тестирования всех использованных трекеров.
 - В папке [app/deepsort](app/deepsort) представлен скрипт для трекера deepsort, показавшего наилучшую метрику.
