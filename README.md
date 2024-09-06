@@ -22,9 +22,9 @@
 * подготовить отчет о работе.
 
 ⚒️ Работа велась в команде DS:
-- [Альбина](https://t.me/AlbinaUsaeva) 
-- [Татьяна](https://t.me/Tanya_GileT) 
-- [Павел](https://t.me/keyboardnorth) 
+- [Альбина](https://github.com/usaeva-a)
+- [Татьяна](https://github.com/GilevaTanya) 
+- [Павел](https://github.com/keyboardnorth) 
 
 ## ✅ Результаты
 Было протестировано 4 трекера. На 9000 фреймах лучшая метрика MOTA оказалась у DeepSORT:
