@@ -17,8 +17,8 @@ model_path = os.path.join(directory_model, 'yolov10x_v2_4_best.pt')
 video_path = os.path.join(directory_video, '31-03-2024-09%3A34%3A24.mp4')
 output_video_path = os.path.join(directory_video, 'result_video.mp4')
 
-CONFIDENCE_THRESHOLD = 0.8
-MAX_AGE = 60
+CONFIDENCE_THRESHOLD = 0.7
+MAX_AGE = 3
 MAX_IOU_DISTANCE = 0.8
 
 try:
